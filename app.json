@@ -1,6 +1,6 @@
 
 {
-  "name": "LamiyaBotAZ",
+  "name": "AysunBotAZ",
   "description": "Telegram qrup idarə edicisi.",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/ValiyevAli/LamiyaBOT",
+  "repository": "https://github.com/Arazzq/AysunBot",
   "env": {
     "ENV": {
       "description": "ANYTHING olaraq qalmağı tövsiyyə olunur",
